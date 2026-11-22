@@ -1,0 +1,6 @@
+#ifndef ATVSNES_JOYPADS_H
+#define ATVSNES_JOYPADS_H
+
+enum { ATVSNES_PLAYER_COUNT = 2 };
+
+#endif
