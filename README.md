@@ -3,12 +3,11 @@
 A native SNES emulator frontend for an already-jailbroken **Apple TV 3**
 with the `beigelist` appliance loader. It runs Snes9x 2005 locally, keeps
 ROMs and saves separate, and supports two Android phones as Bluetooth LE
-controllers. It does not include any games.
+controllers. It does not include any rom games.
 
-**Tested target:** `AppleTV3,2` (A1469, armv7), iPhone OS 8.4.4
-(`12H1006`), with Blackb0x. Other Apple TV models and software versions
-aren't verified. The project author uses a Samsung Galaxy A51 and Galaxy
-A71 as BLE controllers. The Android app requires Android 6+ and a phone
+**Tested target:** `AppleTV3,2` (A1469, armv7) with Blackb0x. Other Apple TV 
+models and software versions aren't verified. This project uses a Samsung Galaxy A51 
+and Galaxy A71 as BLE controllers. The Android app requires Android 6+ and a phone
 that can advertise as a BLE peripheral.
 
 ## Set up
