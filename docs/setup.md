@@ -10,7 +10,7 @@
   contains the SDK and `ld64-242`. The macOS command-line tools'
   `ld64-820.1` also worked with the 8.4 SDK in testing. Neither toolchain
   is included.
-- The [Android BLE controller companion](https://github.com/feshi/atvsnes-android-controller)
+- The [Android BLE controller companion](https://github.com/VenomFeshi/atvsnes-android-controller)
   is only needed for Bluetooth play. It has its own APK build instructions.
 
 ## Configure SSH for this device

@@ -14,9 +14,9 @@ that can advertise as a BLE peripheral.
 ## Set up
 
 1. [Build and install the Apple TV app and Bluetooth helper](docs/setup.md).
-2. Install the [Android controller companion project](https://github.com/feshi/atvsnes-android-controller)
+2. Install the [Android controller companion project](https://github.com/VenomFeshi/atvsnes-android-controller)
    on each phone. Use its build instructions or
-   [download the APK from GitHub Releases](https://github.com/feshi/atvsnes-android-controller/releases/latest/download/ATVSNES-Controller.apk)
+   [download the APK from GitHub Releases](https://github.com/VenomFeshi/atvsnes-android-controller/releases/latest/download/ATVSNES-Controller.apk)
    once the release is published.
 3. To add your own uncompressed `.sfc` or `.smc` files, substitute
    your Apple TV's SSH address:
